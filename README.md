@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanfRojas
 - 👀 I’m interested in ... Making web designs
 - 🌱 I’m currently learning ... css and javascript
-- 💞️ I’m looking to collaborate on ... something for learn
+- 💞️ I’m looking to collaborate on ... something to learn new things
 - 📫 How to reach me ... here on github
 
 <!---
